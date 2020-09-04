@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82032417081",
+    "firebase_url": "https://social-a962b.firebaseio.com",
+    "project_id": "social-a962b",
+    "storage_bucket": "social-a962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82032417081:android:2bbf3969b160d80dadf0e8",
+        "android_client_info": {
+          "package_name": "com.sakibul.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82032417081-o4bjt3p1pe0iu3qum36jlktiknksfk4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakibul.flutter_chat",
+            "certificate_hash": "9023e5014a9c68788338f7456b8fbb298fbb3ab1"
+          }
+        },
+        {
+          "client_id": "82032417081-ncvek2rfa1o9ne94k9n2rn8aj666rqj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRJlZkQy56azKKRlkh1S9JV2MrNCTqTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82032417081-ncvek2rfa1o9ne94k9n2rn8aj666rqj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
